@@ -1,10 +1,14 @@
 {
-  "name": "al-quran",
+  "name": "@shiyinq/al-quran",
   "version": "1.0.0",
   "description": "Wrapper API Fatimah Bot - alQuran",
   "main": "index.js",
   "scripts": {
     "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Shiyinq/al-quran.git"
   },
   "author": "Shiyinq",
   "license": "ISC",
