@@ -1,0 +1,14 @@
+{
+  "name": "al-quran",
+  "version": "1.0.0",
+  "description": "Wrapper API Fatimah Bot - alQuran",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Shiyinq",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
