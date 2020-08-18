@@ -1,5 +1,5 @@
 {
-  "name": "@shiyinq/al-quran",
+  "name": "al-quran",
   "version": "1.0.0",
   "description": "Wrapper API Fatimah Bot - alQuran",
   "main": "index.js",
