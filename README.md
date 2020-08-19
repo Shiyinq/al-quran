@@ -10,20 +10,20 @@ npm i al-quran
 # Usage
 
 ```javascript
-const alquran = require('al-quran')
+const alQuran = require('al-quran')
 ```
 
 ## Methods
 
 ```javascript
-alquran.surat()
-alquran.nomorSurat(nomor)
-alquran.tampilAya(surat, ayat)
-alquran.bahasaAyat(surat, ayat, bahasa)
-alquran.daftarBahasa()
-alquran.pencarian(kata, mulai, limit, bahasa)
-alquran.catatanDepag(nomor)
-alquran.quranAcak()
+alQuran.surat()
+alQuran.nomorSurat(nomor)
+alQuran.tampilAya(surat, ayat)
+alQuran.bahasaAyat(surat, ayat, bahasa)
+alQuran.daftarBahasa()
+alQuran.pencarian(kata, mulai, limit, bahasa)
+alQuran.catatanDepag(nomor)
+alQuran.quranAcak()
 ```
 
 about parameter see [Fatimah](https://fathimah.docs.apiary.io/#reference/alquran)
@@ -32,9 +32,9 @@ about parameter see [Fatimah](https://fathimah.docs.apiary.io/#reference/alquran
 ## Example Request
 
 ```javascript
-const alquran = require('al-quran')
+const alQuran = require('al-quran')
 
-alquran.surat()
+alQuran.surat()
   .then(data => {
     console.log(data)
   })
