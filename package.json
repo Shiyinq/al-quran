@@ -1,7 +1,7 @@
 {
   "name": "al-quran",
-  "version": "1.0.2",
-  "description": "Wrapper Javascript for API Fatimah Bot - alQuran",
+  "version": "1.0.3",
+  "description": "Wrapper Javascript for API Fathimah Bot - alQuran",
   "main": "index.js",
   "scripts": {
     "dev": "node index.js"

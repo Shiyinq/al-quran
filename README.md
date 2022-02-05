@@ -1,6 +1,6 @@
 # Al-quran
 
-Wrapper Javascript for API Fatimah Bot - alQuran. For more information about the API Fatimah, please visit the [Fatimah](https://fathimah.docs.apiary.io/#reference/alquran) documentation.
+Wrapper Javascript for API Fathimah Bot - alQuran. For more information about the API Fathimah Bot, please visit the [Fathimah](https://fathimah.docs.apiary.io/#reference/alquran) documentation.
 
 # Instalation
 
@@ -26,7 +26,7 @@ alQuran.catatanDepag(nomor)
 alQuran.quranAcak()
 ```
 
-about parameter see [Fatimah](https://fathimah.docs.apiary.io/#reference/alquran)
+about parameter see [Fathimah](https://fathimah.docs.apiary.io/#reference/alquran)
 
 
 ## Example Request
