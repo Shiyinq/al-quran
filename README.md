@@ -18,7 +18,7 @@ const alQuran = require('al-quran')
 ```javascript
 alQuran.surat()
 alQuran.nomorSurat(nomor)
-alQuran.tampilAya(surat, ayat)
+alQuran.tampilAyat(surat, ayat)
 alQuran.bahasaAyat(surat, ayat, bahasa)
 alQuran.daftarBahasa()
 alQuran.pencarian(kata, mulai, limit, bahasa)
